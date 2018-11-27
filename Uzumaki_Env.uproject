@@ -1,13 +1,3 @@
-{
-	"FileVersion": 3,
-	"EngineAssociation": "4.20",
-	"Category": "",
-	"Description": "",
-	"Plugins": [
-		{
-			"Name": "Substance",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/2f6439c2f9584f49809d9b13b16c2ba4"
-		}
-	]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb4fdf3112f709d7bbf45500605cb432d18eec1e8317f943bd2a79697ae8f0d1
+size 262
